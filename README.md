@@ -4,7 +4,8 @@ Game-play:
 - If the predator eats a flocker the score will increase along with the predator's life.
 - The game is over when life-bar becomes 0.
 
-  
+Screen Shot 2019-06-24 at 5.28.01 PM.png
+
 Game characteristics:
 - The view of the environment is isometric.
 - The outer 3D box can be rotated in all the 3 directions (X, Y, Z) using the keys 'A', 'D', 'W' and 'S'
