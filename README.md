@@ -1,5 +1,5 @@
 Game-play:
-- It is a chase and run game. User controls the predator by keyboard inputs and attempts to eat the flocker. User can move in all X, Y and Z directions. (4 arrow keys for 4 directions and 'G' and 'H' key for front and back direction respectively i.e. Z axis)
+- It is a chase and run game. User controls the movement of the predator using keyboard and attempts to eat the flockers who move randomly. User can move in all X, Y and Z directions. (4 arrow keys for 4 directions and 'G' and 'H' key for front and back direction respectively i.e. Z axis)
 - There's a life bar for the predator which decreases continuously with time.
 - If the predator eats a flocker the score will increase along with the predator's life.
 - The game is over when life-bar becomes 0.
